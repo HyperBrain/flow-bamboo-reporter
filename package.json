@@ -1,6 +1,6 @@
 {
   "name": "flow-bamboo-reporter",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "engines": {
     "node": ">=4.0"
   },
@@ -26,7 +26,7 @@
     "url": "https://github.com/hyperbrain/flow-bamboo-reporter"
   },
   "bugs": {
-      "url": "https://github.com/hyperbrain/flow-bamboo-reporter/issues"
+    "url": "https://github.com/hyperbrain/flow-bamboo-reporter/issues"
   },
   "author": "Frank Schmid <fschmid740@googlemail.com>",
   "license": "MIT",
