@@ -33,3 +33,5 @@ To get an overview of the available command line options, you can invoke the com
 
 [ico-license]: https://img.shields.io/github/license/hyperbrain/flow-bamboo-reporter.svg
 [ico-npm]: https://img.shields.io/npm/v/flow-bamboo-reporter.svg
+[link-license]: ./blob/master/LICENSE
+[link-npm]: https://www.npmjs.com/package/flow-bamboo-reporter
