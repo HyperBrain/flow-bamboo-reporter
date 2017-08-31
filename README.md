@@ -25,11 +25,24 @@ flow check --json > flow-check.json
 ```
 flow-bamboo-reporter -f flow-check.json
 ```
+### Use pipes
+```
+flow check --json | flow-bamboo-reporter
+```
 ### Bamboo
 Add a _Mocha parser_ task to your build job, that parses the generated _mocha.json_ file.
 
 ## Options/switches
-To get an overview of the available command line options, you can invoke the command with `-h` or `--help`.
+* To get an overview of the available command line options, you can invoke the command with `-h` or `--help`.
+* Enable verbose output with `-v` or `--verbose`. In case you need to open an issue, this shows more information.
+
+## Release notes
+
+* 0.2.0
+  Support piped input (stdin)
+
+* 0.1.0
+  Initial MVP release
 
 [ico-license]: https://img.shields.io/github/license/hyperbrain/flow-bamboo-reporter.svg
 [ico-npm]: https://img.shields.io/npm/v/flow-bamboo-reporter.svg
