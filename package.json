@@ -28,6 +28,7 @@
   "bugs": {
     "url": "https://github.com/hyperbrain/flow-bamboo-reporter/issues"
   },
+  "homepage": "https://github.com/hyperbrain/flow-bamboo-reporter#readme",
   "author": "Frank Schmid <fschmid740@googlemail.com>",
   "license": "MIT",
   "dependencies": {
