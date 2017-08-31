@@ -38,6 +38,9 @@ Add a _Mocha parser_ task to your build job, that parses the generated _mocha.js
 
 ## Release notes
 
+* 0.3.0
+  Create passed result in case of no errors found
+
 * 0.2.0
   Support piped input (stdin)
 
